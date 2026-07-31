@@ -18,3 +18,6 @@ A Python application that implements the Binary Search algorithm using recursion
 
 ## Author
 Anushka Chippa
+
+## Output Screenshot
+![Program Output](screenshots/output.png)
